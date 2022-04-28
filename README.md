@@ -12,6 +12,11 @@ The game was inspired by Club Penguin's "Thin Ice" and the theme was inspired by
 
 Sprites and animations were created by Megan Yeh. The background music came from "My Neighbor Totoro" and sound FX came from various YouTube clips. 
 
+Gameplay video: https://youtu.be/Q0wa8bYr2IM 
+
+![Menu Screen](/Images/Cloud%20Hop/Menu.png)
+![Level Start](/Images/Cloud%20Hop/LevelStart.png)
+![Level Complete](/Images/Cloud%20Hop/LevelComplete.png)
 
 
 ## Installation
