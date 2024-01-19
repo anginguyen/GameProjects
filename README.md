@@ -25,7 +25,7 @@ Music and SFX were composed by Brandon Skylar, Johnny (Tzu-Yang) Ho, Josh Nichol
 
 The school environment came from the [JapaneseSchool](https://assetstore.unity.com/packages/3d/environments/japanese-school-stylized-221256) asset by Sherman Waffle Studios. The padlock, keypad, and chest came from the [Horror FPS Kit](https://assetstore.unity.com/packages/templates/systems/horror-fps-kit-82643) asset by ThunderWire Studios. Both assets were downloaded from Unity Store. 
 
-<img src="/Thanatos/Screenshots/Menu.png" alt="Thanatos Menu Screen" width="500">
+<img src="/Thanatos/Screenshots/MenuScreen.png" alt="Thanatos Menu Screen" width="500">
 <img src="/Thanatos/Screenshots/Hallway.png" alt="Thanatos Hallway Scene" width="500">
 <img src="/Thanatos/Screenshots/Puzzle.png" alt="Thanatos Puzzle Scene" width="500">
 
@@ -36,7 +36,7 @@ Cloud Hop is another original game that I developed with Megan Yeh. The player m
 
 The game was inspired by Club Penguin's "Thin Ice" and the theme was inspired by Studio Ghibli's "My Neighbor Totoro." 
 
-Sprites and animations were created by Megan Yeh. The background music came from "My Neighbor Totoro" and sound FX came from various YouTube clips. 
+I programmed the entirety of the game. Sprites and animations were created by Megan Yeh. The background music came from "My Neighbor Totoro" and sound FX came from various YouTube clips. 
 
 <img src="/Cloud%20Hop/Screenshots/Menu.png" alt="Cloud Hop Menu Screen" width="500">
 <img src="/Cloud%20Hop/Screenshots/LevelStart.png" alt="Cloud Hop Level Start" width="500">
